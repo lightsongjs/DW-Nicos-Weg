@@ -1,0 +1,43 @@
+A2-02-Angekommen
+
+
+YARA:
+Danke, Tarek. Sehr, sehr lecker!
+NICO:
+Mhm!
+TAREK:
+Freut mich, dass es euch geschmeckt hat!
+YARA:
+Es ist schön, wieder hier zu sein. Ich hatte fast ein bisschen Heimweh.
+NICO:
+Heimweh? Du hast Spanien vermisst?
+YARA:
+Nein. Spanien ist mein Heimatland. Ich komme aus Spanien, aber mein Zuhause ist Deutschland. Und Deutschland hab ich vermisst.
+TAREK:
+Ja, das verstehe ich. Deutschland ist auch mein Zuhause. Ich komme zwar aus der Türkei , aber ich wohn schon sehr lange hier.
+NICO:
+Wie lange lebst du schon in Deutschland?
+TAREK:
+Ich bin vor 30 Jahren mit meinen Eltern hierhergekommen.
+YARA:
+Ich bin vor 15 Jahren als Au-pair-Mädchen nach Deutschland gekommen. Das Land war fremd , die Sprache auch. Ich meine, ich war froh. Ich wollte Spanien verlassen und in Deutschland studieren. Aber es war nicht immer leicht. Alles war neu. Ich hatte Glück. Ich hatte Hilfe. Es ist wichtig, dass man Hilfe hat in so einer Situation . Ich hatte meine Freundin.
+TAREK:
+Du meinst Sarah?
+YARA:
+mhm.
+NICO:
+Wer ist Sarah?
+YARA:
+Meine beste Freundin. Vor fünf Jahren ist sie in die Schweiz zurückgegangen. Vor ein paar Wochen habe ich einen Anruf von Sarah bekommen. Ihr Vater ist gestorben.
+TAREK:
+Oh nein.
+YARA:
+Mhmm. Es war schlimm. Sie hat meine Hilfe gebraucht. Ich hab meine Sachen gepackt und bin nach Zürich geflogen.
+TAREK:
+Warum hast du denn nichts gesagt?
+YARA:
+Und was ist mit dir? Wie lang willst du eigentlich bleiben?
+
+
+
+===============================================

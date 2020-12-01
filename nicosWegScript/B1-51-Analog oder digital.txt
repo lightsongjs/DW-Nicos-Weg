@@ -1,0 +1,31 @@
+B1-51-Analog oder digital
+
+
+YARA:
+Und dann wollte er mit mir Kaffee trinken.
+PEPE:
+Wieso hast du’s nicht gemacht? Du hättest es bestimmt noch auf die Titelseite gebracht!
+YARA:
+Hör auf. Ich schäme mich jetzt schon.
+PEPE:
+Ach Quatsch! Aber kein Wunder, dass heutzutage niemand mehr Zeitung liest. Keine Sorge, die Annonce war trotzdem ’n guter Deal. Sie wird dir helfen.
+YARA:
+Ich lese total gerne Zeitung. Und ich bin mir sicher, ich bin nicht die Einzige.
+PEPE:
+Wann liest du denn Zeitung?
+YARA:
+Ich lese am liebsten morgens. Dazu trinke ich dann eine Tasse Kaffee. Oder abends vor dem Schlafengehen.
+PEPE:
+Aber man liest doch heutzutage alles im Handy nach. Zeitungen sind unpraktisch und einfach nicht mehr modern.
+YARA:
+Journalismus ist immer noch extrem wichtig. Und Zeitungen werden auch immer wichtig sein. Die meisten Zeitungen haben heutzutage eine App.
+PEPE:
+Die meisten, aber nicht alle, oder?
+YARA:
+Was meinst du?
+PEPE:
+Ich begrüße Sie ganz herzlich. Mein Name ist José González. Aber bitte nennen Sie mich Pepe. Ich präsentiere Ihnen eine vollständige digitale Lösung für Ihre Zeitung. Wir entwickeln für Sie nicht nur Apps und Internetseiten, wir stellen Ihnen auch Lösungen für steigende Leserzahlen vor. Die vielen Vorteile liegen natürlich auf der Hand. Mit der neuen App werden mehr Leute Ihre Zeitung lesen. Ich bedanke mich für Ihre Aufmerksamkeit.
+
+
+
+===============================================

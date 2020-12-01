@@ -1,0 +1,47 @@
+B1-21-Typisch
+
+
+YARA:
+Hallo, Pepe. Danke, dass du so schnell kommen konntest.
+PEPE:
+Worum geht’s denn?
+YARA:
+Ich habe ein Problem mit meiner Webseite. Ich habe gestern Abend ziemlich lange versucht …
+PEPE:
+Zeig mal her! So, bitte!
+YARA:
+Das hast du mir aber anders gezeigt.
+PEPE:
+Ja, schon okay. Frauen und Technik, das passt eben nicht zusammen. Immerhin kannst du Fahrräder reparieren.
+YARA:
+Entschuldigung?
+PEPE:
+Was? Das war ’n Kompliment.
+YARA:
+Das soll ein Kompliment gewesen sein? Du hast ja keine Ahnung. „Frauen und Technik“ – was für ein blödes Klischee !
+PEPE:
+Okay. Aber jetzt konzentrier dich mal wieder auf die Webseite. Also, mach es so, wie ich’s dir gezeigt hab. Ist eigentlich ganz einfach – sogar für Frauen.
+YARA:
+Du machst es schon wieder!
+PEPE:
+Was denn?
+YARA:
+Na, „sogar für Frauen“. Es muss aber nicht immer alles ganz einfach sein, damit ich es verstehe. Es gibt bestimmt jede Menge Frauen, die besser programmieren können als du!
+PEPE:
+Ja, das kann sein, aber trotzdem gibt es Unterschiede zwischen Männern und Frauen. Und ich kenne ziemlich viele Frauen, die eben nicht mit Computern umgehen können.
+YARA:
+Aha? So ein Unsinn! 
+PEPE:
+Ja. Ich finde, die meisten Frauen machen irgendwie alles komplizierter, als es ist.
+YARA:
+Männer auch. Ich finde nicht, dass das typisch weiblich ist.
+PEPE:
+Machen wir jetzt weiter mit der Webseite?
+YARA:
+Ja.
+PEPE:
+Wie wär’s mit Pink?
+
+
+
+===============================================

@@ -1,0 +1,31 @@
+B1-48-Wertstoffe
+
+
+REPORTER:
+Guten Tag! Fromme mein Name. Sind Sie die Veranstalterin des Flohmarkts?
+YARA:
+Ja, die bin ich.
+REPORTER:
+Ich bin vom Lokalteil des Tageblatts. Darf ich Ihnen ’n paar Fragen stellen?
+YARA:
+Klar, gerne.
+REPORTER:
+Wie sind Sie auf die Idee für den Flohmarkt gekommen ?
+YARA:
+Ganz einfach: Man kann nicht immer alles neu kaufen. Hier wird recycelt. Gebrauchte Gegenstände werden hier nicht weggeworfen, sie wechseln den Besitzer . 
+REPORTER:
+Das Besondere hier ist ja, dass alles umsonst ist. Warum?
+YARA:
+Wenn Sie etwas wegwerfen, bekommen Sie doch auch kein Geld dafür, oder?
+SELMA:
+Das hier ist doch toll!
+IBRAHIM:
+Das hier find ich schöner.
+REPORTER:
+Frau González?
+YARA:
+Entschuldigung, was wollten Sie noch wissen?
+
+
+
+===============================================

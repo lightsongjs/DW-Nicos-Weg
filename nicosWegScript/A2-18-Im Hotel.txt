@@ -1,0 +1,33 @@
+A2-18-Im Hotel
+
+
+REZEPTIONISTIN :
+Guten Abend, was kann ich für Sie tun?
+PEPE:
+Haben Sie noch ein Zimmer frei?
+REZEPTIONISTIN:
+Nehmen Sie das Zimmer für eine Nacht oder für mehrere Nächte?
+PEPE:
+Erst einmal für eine Nacht. Vielleicht bleibe ich länger.
+REZEPTIONISTIN:
+Ich nehme an, dass Sie ein Einzelzimmer möchten. Ist das richtig?
+PEPE:
+Ja bitte. Ein Einzelzimmer.
+REZEPTIONISTIN:
+Möchten Sie das Zimmer mit oder ohne Frühstück? Das Frühstück ist nicht im Preis inbegriffen .
+PEPE:
+Ohne Frühstück bitte.
+REZEPTIONISTIN:
+Dann benötige ich noch Ihren Ausweis oder Reisepass . Das Zimmer ist in der vierten Etage.
+Das macht dann 139 Euro für eine Übernachtung ohne Frühstück. Zahlen Sie bar oder mit Kreditkarte?
+PEPE:
+Ich zahl mit Karte.
+REZEPTIONISTIN:
+Entschuldigen Sie, aber Ihre Karte wird nicht akzeptiert .
+Danke. Entschuldigen Sie die Umstände. Wie gesagt, Ihr Zimmer ist in der vierten Etage. Den Aufzug finden Sie vorne rechts. Ich wünsche Ihnen einen angenehmen Aufenthalt !
+PEPE:
+Ja, danke. Ich mir auch!
+
+
+
+===============================================

@@ -1,0 +1,42 @@
+A2-01-Lebenslinien
+
+
+YARA:
+Was machst du denn hier?
+Tarek …
+TAREK:
+Hi!
+YARA:
+Ihr kennt euch?
+NICO:
+Ja, ich helfe manchmal im Restaurant.
+YARA:
+Und du sprichst Deutsch!
+NICO:
+Ein bisschen. Ich mache einen Audiokurs.
+YARA:
+Wie lange bist du denn schon in Deutschland?
+NICO:
+Ich bin vor ein paar Wochen nach Deutschland gekommen.
+YARA:
+Aber warum? Ich meine, was machst du hier?
+TAREK:
+Nico hat dich gesucht.
+NICO:
+Aber du warst in der Schweiz .
+YARA:
+Woher weißt du das? 
+NICO:
+Das ist eine lange Geschichte .
+YARA:
+Okay. Und ich möchte die ganze Geschichte von Anfang an hören.
+TAREK:
+Pass auf: Wir gehen alle ins Restaurant, ich koche etwas und nach dem Essen erzählen wir dir alles.
+YARA:
+Ja. Okay.
+TAREK:
+Okay.
+
+
+
+===============================================

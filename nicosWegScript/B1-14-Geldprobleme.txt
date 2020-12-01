@@ -1,0 +1,43 @@
+B1-14-Geldprobleme
+
+
+YARA:
+Jetzt mal ehrlich, Pepe: Wie soll ich dich denn ernst nehmen , wenn du dauernd deine Meinung änderst?
+PEPE:
+Ja, ich weiß, ich hab dir vor ein paar Tagen gesagt, dass ich dir keine neue Website machen kann. Aber … ich hab nachgedacht, und du hast recht: Familie ist das Wichtigste, und du gehörst zu meiner Familie. Deswegen möchte ich dir helfen.
+YARA:
+Aha. Soll das jetzt heißen, dass du doch eine Website für mich machst?
+PEPE:
+Ja. Also natürlich müssen wir noch über den Preis sprechen, aber ich mach dir da ’n faires Angebot  – familienfair sozusagen …
+YARA:
+Nein!
+PEPE:
+Wie „nein“?
+YARA:
+Ich meine: nein. Das Geschäft mit Max und Tarek ist geplatzt , deshalb kommst du jetzt zu mir, oder?
+PEPE:
+Ich brauch den Auftrag, Yara.
+YARA:
+Warum?
+PEPE:
+Meiner Firma geht es schlecht. Ich hab … ich hab finanzielle Probleme. Ich hab Schulden, Yara. Darum brauch ich die Aufträge.
+NICO:
+Du hast kein Geld mehr, hm? Weißt du, was unsere Eltern immer sagen? Nimm dir ein Beispiel an Pepe! Mach es wie er! Beende dein Studium und werde so erfolgreich wie Pepe! Und du hast kein Geld mehr?
+PEPE:
+Ja, tut mir leid, Nico! Ich hab gelogen. Ich wollte, dass unsere Eltern stolz auf mich sind.
+NICO:
+Wahnsinn …
+PEPE:
+Was soll ich denn jetzt machen?
+YARA:
+Du wirst die Wahrheit sagen. Keine Show mehr. Keine teuren Autos, keine teuren Hotels. Das muss alles aufhören. Du musst ganz neu anfangen.
+PEPE:
+Ich bekomm aber keine neuen Aufträge, wenn die Leute sehen, dass ich kein Geld hab.
+YARA:
+Du bekommst meine Website. Mach was draus.
+PEPE:
+Okay.
+
+
+
+===============================================

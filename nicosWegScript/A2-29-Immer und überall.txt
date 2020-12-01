@@ -1,0 +1,69 @@
+A2-29-Immer und überall
+
+
+MAX:
+Es gibt doch nichts Schöneres als Radfahren. Pure Freiheit !
+TAREK:
+Pure Leidenschaft !
+MAX:
+Pure Körperkraft!
+TAREK:
+Pure Körperkraft!
+MAX:
+Ah!
+TAREK:
+Ah … Ha?
+MAX:
+Es gibt doch nichts Schöneres als Radfahren. Pure … Freiheit!
+TAREK:
+Pure Leidenschaft!
+MAX:
+Es gibt doch nichts Schöneres als Radfahren. Pure Freiheit!
+TAREK:
+Pure Leidenschaft!
+MAX:
+Pure Körperkraft!
+TAREK:
+Pure Körperkraft!
+MAX:
+Ah!
+TAREK:
+Oh nein, ist dir was passiert?
+MAX:
+Nee, mir nicht. Aber mein Fahrrad …
+TAREK:
+Oh nein!
+YARA:
+Muss ich hier etwa ein Fahrrad reparieren?
+MAX:
+Wahnsinn! Yara ist …
+MAX/TAREK:
+… die Fahrradspezialistin!
+YARA:
+Weil ich Fahrräder liebe.
+YARA:
+Ja, das gefällt dir, was?
+MAX:
+Ja! Repariere alte Fahrräder, kaputte Bremsen, defektes Licht, platte Reifen , gebrochene Herzen.
+YARA:
+Hör auf, Max! Das ist ein furchtbarer Text.
+MAX:
+Ich weiß nicht, was du hast. Du sagst doch, du brauchst Werbung.
+YARA:
+Ja. Ich brauche gute, fantasievolle Werbung. Herr Friese erhöht meine Miete. Also brauche ich mehr Kunden. Sonst muss ich den Laden schließen.
+MAX:
+Du kannst vielleicht ’ne Werbeagentur beauftragen.
+YARA:
+Weißt du, was das kostet? Das ist viel zu teuer. Ich mache das lieber selbst. Ich brauche … zehn Prozent mehr Kunden.
+MAX:
+Das sind dann aber sehr viele, oder?
+YARA:
+Genau. Und wo erreicht  man viele Menschen?
+MAX:
+Im Internet!
+YARA:
+Ja!
+
+
+
+===============================================

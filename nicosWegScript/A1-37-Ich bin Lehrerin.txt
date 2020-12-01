@@ -1,0 +1,55 @@
+A1-37-Ich bin Lehrerin
+
+
+NICO:
+Das ist die Adresse und die Telefonnummer.
+LISA:
+Ich kenne die Adresse. Ich komme morgen mit.
+NICO:
+Das ist super!
+MAX:
+Wohin gehst du?
+LISA:
+Ich habe gleich ein Bewerbungsgespräch .
+NICO:
+Was ist dein Beruf ? Arbeitest du nicht als Lehrerin?
+LISA:
+Doch. Ich bin Lehrerin für Deutsch und Englisch. Aber ich habe keine feste Arbeit an einer Schule.
+NICO:
+Und die Sprachkurse?
+LISA:
+Die Sprachkurse sind nur ein Nebenjob. Jetzt brauch ich eine richtige Arbeit.
+MAX:
+Viel Erfolg !
+NICO:
+Viel Glück!
+LISA:
+Danke. Tschüss!
+TAREK:
+Tschau, Lisa!
+MAX:
+Arbeitest du schon?
+Welchen Beruf findest du gut? Möchtest du auch Lehrer werden?
+NICO:
+Meine Eltern sagen, Ingenieur ist gut.
+MAX:
+Und du?
+Ich war lange in einer Bank . Ich bin Bankkaufmann .
+NICO:
+Das verstehe ich nicht. Du hast doch ein Restaurant.
+MAX:
+Stimmt . Zusammen mit Tarek. Tarek ist eigentlich Elektriker von Beruf .
+NICO:
+Warum?
+MAX:
+Na ja, wir finden die Arbeit im Restaurant interessant. Es macht Spaß. Und hier sind Tarek und ich die Chefs .
+NICO:
+Du arbeitest also gerne im Restaurant.
+MAX:
+Ja. Ich mag meine Arbeit. Und Tarek auch. Oder, Tarek?
+TAREK:
+Klar mag ich meinen Job. Und du findest bestimmt auch noch ’ne gute Arbeit!
+
+
+
+===============================================

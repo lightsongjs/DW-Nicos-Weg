@@ -1,0 +1,73 @@
+A1-26-Meine Wohnung
+
+
+LISA:
+Du willst dir das Zimmer anschauen?
+MARVIN:
+Ja. Ich suche eine neue WG.
+LISA:
+Wir haben telefoniert. Ich bin Lisa Brunner.
+MARVIN:
+Cool.
+LISA:
+So, das ist die Wohnung.
+SEBASTIAN:
+Hi, Lisa.
+LISA:
+Das ist …
+MARVIN:
+Marvin, hi.
+LISA:
+Marvin möchte dein Zimmer sehen .
+NAWIN:
+Ah, hi! Ich bin Nawin. Freut mich .
+MARVIN:
+Hi.
+NAWIN:
+Schon okay …
+LISA:
+Wo ist Emma?
+SEBASTIAN:
+Draußen mit Nina.
+LISA:
+Okay.
+NAWIN:
+Okay, dann fangen wir an!
+LISA:
+Das ist das Wohnzimmer .
+SEBASTIAN:
+Die Fenster sind groß und das Zimmer ist hell .
+MARVIN:
+Cool. Wie viele Zimmer hat die Wohnung?
+NAWIN:
+Es gibt fünf Zimmer, eine Küche und ein Bad . Ja, dann komm mal mit.
+LISA:
+Los, los, los, los, komm!
+NAWIN:
+Das Zimmer ist bald frei.
+MARVIN:
+Ganz schön groß. Wie viele Quadratmeter hat das Zimmer denn?
+NAWIN:
+Ich glaube, es hat zehn Quadratmeter, oder?
+LISA:
+Das Zimmer hat elf Quadratmeter.
+MARVIN:
+Ah.
+NAWIN:
+Ja, und es ist sehr ruhig . Keine Autos.
+SEBASTIAN:
+So, das ist die Küche. Die Küche ist sehr gemütlich . Hier sitzen wir oft.
+MARVIN:
+Wie teuer ist das Zimmer?
+NAWIN:
+Die Miete kostet mit Nebenkosten 400 Euro im Monat .
+MARVIN:
+Okay. Ich nehme das Zimmer!
+LISA:
+Super! Es kommen noch andere Interessenten . Aber wir rufen dich an.
+MARVIN:
+Ja, cool. Na dann! Tschüss!
+
+
+
+===============================================

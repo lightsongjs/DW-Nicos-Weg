@@ -1,0 +1,35 @@
+A2-24-Das meinen Sie nicht ernst!
+
+
+YARA:
+So ein Idiot!
+HAUKE:
+Oh! Sie meinen hoffentlich nicht mich.
+YARA:
+Oh, nein, tut mir leid. Haben Sie schon mit Herrn Murz gesprochen? Ich ärgere mich immer wieder über diese …
+HAUKE:
+Ja, ja, schon gut. Frau González, haben Sie jetzt einen Moment Zeit? Ich wollte doch etwas mit Ihnen besprechen.
+YARA:
+Ja!
+HAUKE:
+Es gibt im nächsten Jahr eine Mieterhöhung . Die Miete wird ab Januar teurer.
+YARA:
+Das meinen Sie nicht ernst. 
+HAUKE:
+Glauben Sie etwa, dass Sie für immer den gleichen Preis zahlen können? Der Markt verändert sich , die Preise auch.
+YARA:
+Ich zahle genug. Und Sie haben schon vor zwei Jahren meine Miete erhöht .
+HAUKE:
+Ich kann verstehen, dass Sie sich nicht über die Mieterhöhung freuen, Frau González, aber … ich diskutiere nicht mit Ihnen.
+YARA:
+Wissen Sie eigentlich, dass viele kleine Ladenbesitzer ihre Geschäfte schließen müssen, weil die Mieten immer teurer werden?
+HAUKE:
+Das ist tragisch. Aber es interessiert mich nicht.
+YARA:
+Ja, das wundert mich nicht. Menschen wie Sie interessieren sich nur für sich selbst. Ich werde auf keinen Fall mehr Miete bezahlen!
+HAUKE:
+Das klären wir noch. Schönen Tag, Frau González!
+
+
+
+===============================================

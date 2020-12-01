@@ -1,0 +1,64 @@
+A2-05-Geld ist für mich …
+
+
+
+YARA:
+Und? Wie war das Gespräch mit deinen Eltern?
+
+NICO:
+Sie freuen sich , weil es mir gut geht, wünschen mir viel Glück, und sie lieben mich sehr.
+
+YARA:
+Wirklich ?
+
+NICO:
+Nein. Sie sind …
+
+YARA:
+… stinksauer …? … wütend …?
+
+NICO:
+Ja. Sie sind wütend, weil ich nicht mehr studieren will. Sie sind wütend, weil ich nicht zurückkommen will …
+
+YARA:
+Und?
+
+NICO:
+Ich bleibe hier.
+
+YARA:
+Okay. Gehen wir nach Hause!
+
+NICO:
+Okay.
+
+NICO:
+Ich muss zur Bank gehen, weil ich ein Konto eröffnen will.
+
+YARA:
+Sehr gut. Du musst dich jetzt um vieles kümmern.
+
+NICO:
+Ich kann heute nicht zur Bank gehen, weil ich zu Lisa zum Sprachkurs gehen muss.
+
+YARA:
+Um wie viel Uhr musst du zu Lisa?
+
+NICO:
+Ich gehe um elf zu Lisa.
+
+YARA:
+Dann kannst du danach zur Bank gehen. Das schaffst du.
+
+NICO:
+Mhm.
+
+YARA:
+Hier: dein Willkommensgeschenk. Damit geht’s schneller!
+
+NICO:
+Wow! Danke!
+
+
+
+===============================================

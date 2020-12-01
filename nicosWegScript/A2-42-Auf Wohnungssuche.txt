@@ -1,0 +1,67 @@
+A2-42-Auf Wohnungssuche
+
+
+PEPE:
+Suchst du jetzt wirklich ’ne neue Wohnung?
+YARA:
+Natürlich nicht. Aber ich interessiere mich für die Angebote. Mal schauen, was es so gibt.
+PEPE:
+Die ist doch schön.
+YARA:
+Findest du?
+PEPE:
+Was kostet die Wohnung?
+YARA:
+1200 Euro Kaltmiete . Inklusive Nebenkosten sind das bestimmt 1500 Euro.
+PEPE:
+Was? Wo liegt die denn?
+YARA:
+In einem kleinen Vorort . Sehr ruhige Lage , Bauernhöfe in der Nähe …
+PEPE:
+Also stinkt’s.
+YARA:
+In der Stadt stinkt es! Die Wohnung ist doch süß : Dachgeschoss , teilweise möbliert , 60 Quadratmeter .
+PEPE:
+Preis?
+YARA:
+550 Euro Warmmiete .
+PEPE:
+Muss man denn Kaution bezahlen?
+YARA:
+Sicher. Zwei Kaltmieten.
+PEPE:
+Das klingt gut. Willst du ’ne Besichtigung vereinbaren?
+YARA:
+Nein, ich habe doch gesagt, dass ich nur schaue.
+PEPE:
+Manchmal muss man eine Gelegenheit ergreifen.
+YARA:
+Ja. Und manchmal sagt die Gelegenheit auch: „Ich erstelle dir keine Webseite, weil du nicht wichtig genug bist.“
+PEPE:
+Familie ist mir wichtig!
+YARA:
+Ach ja?
+PEPE:
+Ja. Und ich kann’s dir beweisen.
+YARA:
+Wie denn?
+PEPE:
+Ich habe einen Job – für Nico.
+YARA:
+Einen Job?
+PEPE:
+Ja! Und ich wollte dich fragen, ob … ob du … na ja mit …
+YARA:
+... ob ich es ihm sage?
+PEPE:
+Ja.
+YARA:
+Auf keinen Fall.
+PEPE:
+Dich mag er. Mir hört er nicht zu.
+YARA:
+Aber ich finde, dass du es selbst versuchen musst. Wenn es ein guter Job ist, dann wird er dir auch zuhören. 
+
+
+
+===============================================

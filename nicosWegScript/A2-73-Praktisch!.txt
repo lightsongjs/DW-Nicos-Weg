@@ -1,0 +1,51 @@
+A2-73-Praktisch!
+
+
+YARA:
+Also: Was habt ihr vor?
+MAX:
+Das ist eigentlich ganz einfach. Wir wollen unserem Restaurant einen Lieferservice  anschließen.
+YARA:
+Das willst du doch schon lange.
+MAX:
+Aber jetzt hab ich jemanden gefunden, der mich unterstützt.
+YARA:
+Pepe. Ernsthaft?
+PEPE:
+Das könnte sehr profitabel werden!
+YARA:
+Ich verstehe. Und was hab ich damit zu tun?
+MAX:
+Ich möchte, dass der Lieferservice umweltfreundlich  ist.
+PEPE:
+Deshalb wollen wir mit dem Fahrrad liefern . Das ist umweltfreundlich und spart auch Benzinkosten.
+MAX:
+Das geht zwar nicht, wenn es schneit, aber ansonsten eigentlich immer.
+YARA:
+Und ihr wollt Fahrräder von mir.
+PEPE:
+Ja, aber nicht nur Fahrräder. Das Geschäft soll sich auch sonst für dich lohnen.
+YARA:
+Wie denn?
+PEPE:
+Na ja, du steigst in das Projekt als Geschäftspartnerin mit ein und wirst dann am Gewinn beteiligt .
+MAX:
+Das Risiko wird dann natürlich auch geteilt.
+PEPE:
+Wenn dir der Vorschlag zu riskant ist, dann mieten wir die Fahrräder einfach nur bei dir. Und auf unserem Flyer und in der App wird dann Werbung für deinen Laden gemacht.
+YARA:
+Die Idee ist gut. Aber ich kann jetzt keinen Kredit aufnehmen.
+PEPE:
+Das ist vielleicht gar nicht nötig.
+YARA:
+Wieso?
+PEPE:
+Ich kenne einen Investor , der Interesse hat.
+YARA:
+Einen Investor? Wie groß soll das Geschäft mit dem Lieferservice denn werden?
+PEPE:
+Na ja, so groß es geht.
+
+
+
+===============================================

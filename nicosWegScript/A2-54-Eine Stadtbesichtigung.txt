@@ -1,0 +1,36 @@
+A2-54-Eine Stadtbesichtigung
+
+
+YARA:
+Ja, okay, in zwei Stunden. Ich hole dich ab! Ich freue mich auch! Tschüss!
+Das kann doch nicht wahr sein!
+HAUKE:
+Morgen!
+YARA:
+Guten Morgen. Sehen Sie das? Ich möchte nicht, dass die Mülltonne vor meinem Laden steht. Wie oft soll ich das noch sagen?
+HAUKE:
+Ich finde ja, Sie sollten sich einfach mal entspannen und …
+YARA:
+Entspannen?
+HAUKE:
+Ja. Außerdem wollte ich grade zu Ihnen, weil …
+YARA:
+Ich habe jetzt keine Zeit für Diskussionen. Ich bekomme Besuch und muss eine Stadtbesichtigung planen.
+HAUKE:
+Oh, da kann ich Ihnen vielleicht helfen und Ihnen ein paar Tipps geben. Sie sollten auf jeden Fall das Stadtschloss besuchen. Die aktuelle Dürer-Ausstellung ist wirklich sehr schön.
+YARA:
+Danke, aber ich …
+HAUKE:
+Im kleinen Theater gibt es außerdem ein neues Programm. Ich bin wirklich neugierig auf die Faust-Interpretation. Sie kennen doch „Faust“ von Goethe, oder?
+YARA:
+Ja natürlich. Aber ich hab …
+HAUKE:
+Hier, sehen Sie: Ein Kritiker schreibt in der Zeitung – hier: „Goethes Faust begeisterte die Theaterbesucher gleich am ersten Abend.“ Ja. Es gab langen Applaus: „Die Schauspieler mussten dreimal wieder auf die Bühne kommen.“
+YARA:
+Ja, sehr schön. Aber …
+HAUKE:
+Die Gemälde aus dem Mittelalter im Stadtmuseum – die sind auch ein echter Geheimtipp . Sehr schöne Bilder! Das steht in keinem Stadtführer . Aber gehen Sie bitte auf keinen Fall in das Museum für moderne Kunst. Das lohnt sich gar nicht.
+
+
+
+===============================================

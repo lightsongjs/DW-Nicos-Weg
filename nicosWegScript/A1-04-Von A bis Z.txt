@@ -1,0 +1,42 @@
+A1-04-Von A bis Z
+
+
+NICO:
+Yara.
+LISA:
+Wer ist Yara?
+NICO:
+Meine ... aunt?
+EMMA:
+Deine Tante ?
+LISA:
+Nicht schlecht! Du willst zu deiner Tante? Zu Yara? Hast du die Adresse ? Adresse: Straße , Hausnummer ?
+NICO:
+Andel … Adelschiffstraße?
+LISA:
+Die kenn ich nicht … Komm, wir helfen dir!
+EMMA:
+Yippie!
+NICO:
+Emma!
+EMMA:
+Mein Name ist Emma! Und das ist meine Tante.
+NICO:
+Deine Mama ?
+EMMA:
+Nein , Lisa ist nicht meine Mama. Sie ist meine Tante. Meine Mama … fliegt nach Amerika. Sie arbeitet da.
+Bitte !
+NICO:
+Danke.
+EMMA:
+Nico.
+NICO:
+Mein Name ist Nico.
+EMMA:
+Hallo, Nico.
+NICO:
+Hallo, Emma.
+
+
+
+===============================================

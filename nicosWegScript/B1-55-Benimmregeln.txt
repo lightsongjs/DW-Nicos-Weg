@@ -1,0 +1,69 @@
+B1-55-Benimmregeln
+
+
+YARA:
+Vielen Dank. Bis dann!
+NICO:
+Hey!
+YARA:
+Hallo! Die Al-Paschas haben uns für heute Abend zum Essen eingeladen.
+NICO:
+Ja? Wirklich?
+YARA:
+Als Dankeschön für den Flohmarkt und das Fahrrad.
+NICO:
+Bin ich auch eingeladen?
+YARA:
+Ja, wieso nicht? Ich dachte, du bist mit Selma befreundet .
+NICO:
+Ja, schon.
+YARA:
+Was machst du?
+NICO:
+Ich erkundige mich nur nach Benimmregeln in Syrien. Mir ist heute schon etwas Peinliches passiert. Das reicht. Hier steht: „Wenn Sie eine syrische Familie begrüßen, sollte der Mann der Frau nicht die Hand geben . Das ist unüblich und gilt als unhöflich. Außerdem wird sich nach dem Befinden der Familie erkundigt.“
+YARA:
+Wir kennen die Familie überhaupt nicht.
+NICO:
+Ja und? Hier steht, es gehört sich so.
+YARA:
+Du nimmst das ganz schön ernst.
+NICO:
+Hm?
+YARA:
+Hat das etwas mit dieser Selma zu tun?
+NICO:
+Nö.
+YARA:
+Hallo, ich bin Yara.
+AYA:
+Ich bin Aya.
+IBRAHIM:
+Meine Frau.
+YARA:
+Freut mich sehr. Vielen Dank für die Einladung.
+IBRAHIM:
+Selma, meine Tochter.
+YARA:
+Hallo!
+SELMA:
+Hi!
+NICO:
+Hallo, ich bin Nico. Freut mich, Sie kennenzulernen.
+IBRAHIM:
+Bitte, setzen Sie sich.
+YARA:
+Wir können uns gerne duzen.
+NICO:
+Wie geht es der Familie?
+IBRAHIM:
+Welcher Familie?
+NICO:
+Ja, eurer Familie.
+IBRAHIM:
+Ich denke, der Familie geht’s gut. Und … deiner Familie?
+NICO:
+Ich denke, auch.
+
+
+
+===============================================

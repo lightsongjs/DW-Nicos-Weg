@@ -1,0 +1,35 @@
+A2-56-Theater und Konzerte
+
+
+YARA:
+Also, es gibt heute Abend mehrere Veranstaltungen. Im Heimathaus gibt’s Volksmusik …
+SARAH/YARA:
+Auf keinen Fall!
+YARA:
+Dann hier … Rockmusik im Club .
+SARAH:
+Das hört sich schon besser an.
+YARA:
+Ja, aber die Sängerin ist ziemlich populär . Ich denke, die Tickets sind ausverkauft .
+SARAH:
+Gibt es keine Tickets an der Abendkasse ?
+YARA:
+Ich glaube nicht …
+SARAH:
+Schade. Was gibt’s denn sonst noch?
+YARA:
+Es gibt noch ein Musical oder wir können ins Theater gehen. An der Theaterkasse gibt es bestimmt noch Tickets .
+SARAH:
+Klingt gut.
+YARA:
+Hast du Lust, meinen Neffen Nico kennenzulernen?
+SARAH:
+Ja. Warum nicht?
+LISA:
+Sorry, sorry, sorry, sorry …
+TAREK:
+Lisa! Liebe Gäste, liebe Gäste, und jetzt ein kleines Konzert von unseren guten Freunden: Lisa, Sebastian und Nico! Viel Spaß!
+
+
+
+===============================================

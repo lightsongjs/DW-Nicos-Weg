@@ -1,0 +1,41 @@
+A2-32-Reklamation
+
+
+PEPE:
+Mailbox: speichern. So, der Nächste …
+KUNDE:
+Ja?
+PEPE:
+Guten Tag, González hier …
+KUNDE:
+Na endlich! Wissen Sie, wie oft ich heute schon angerufen habe?
+PEPE:
+Entschuldigung, ich war beschäftigt .
+KUNDE:
+Das hoffe ich. Ich möchte mich beschweren .
+PEPE:
+Ja, das haben Sie in der Mail schon geschrieben.
+KUNDE:
+Ich bin extrem unzufrieden . Die App funktioniert nicht. Die Website ist viel zu unübersichtlich . Wie soll man sich denn da noch orientieren?
+PEPE:
+Ich verstehe Ihr Problem. Wir können die Website nach Ihren Wünschen ändern.
+KUNDE:
+Sie ändern gar nichts mehr. Unsere Zusammenarbeit ist beendet.
+PEPE:
+Aber Herr Troyzig …
+KUNDE:
+Die Tablets, die Sie uns empfohlen haben: auch Mist! Die sind viel zu langsam. Ich möchte sie umtauschen . Die Rechnung hab ich noch.
+PEPE:
+Das ist Ihr gutes Recht …
+KUNDE:
+Was soll das heißen? Ich bekomme mein Geld doch zurück, oder? Ich habe doch eine Rückgabegarantie.
+PEPE:
+Das ist leider nicht möglich, Herr Troyzig.
+KUNDE:
+Nicht möglich? Das werden wir ja sehen!
+PEPE:
+Der Nächste …
+
+
+
+===============================================

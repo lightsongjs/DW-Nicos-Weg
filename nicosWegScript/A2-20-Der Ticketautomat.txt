@@ -1,0 +1,35 @@
+A2-20-Der Ticketautomat
+
+
+IBRAHIM:
+’tschuldigen Sie! Welche Linie hält am Krankenhaus?
+YARA:
+Die 66, die hält am Krankenhaus. Sind Sie krank? Soll ich lieber ein Taxi rufen?
+IBRAHIM:
+Vielen Dank, aber ich habe dort nur meinen Ausweis vergessen.
+YARA:
+Ärgerlich!
+IBRAHIM:
+Die 64? Die hält auch am Krankenhaus?
+YARA:
+Die 64 fährt in die andere Richtung, zum Flughafen. Das hilft Ihnen nicht weiter.
+IBRAHIM:
+Okay. Und reicht da ein normaler Fahrschein? Wissen Sie das?
+YARA:
+Zum Krankenhaus brauchen Sie ein Ticket für 3,80 Euro. Moment, ich helfe Ihnen! Ach, es gibt noch eine schnellere Verbindung mit der 16. Die Strecke  ist kürzer, aber Sie müssen einmal umsteigen.
+IBRAHIM:
+Wie lange dauert die Fahrt ohne Umsteigen?
+YARA:
+15 Minuten länger.
+IBRAHIM:
+Dann ohne Umsteigen.
+YARA:
+Bitte schön.
+IBRAHIM:
+Vielen Dank! Ich wünsche Ihnen noch einen schönen Abend.
+YARA:
+Bitte schön, Ihnen auch!
+
+
+
+===============================================

@@ -1,0 +1,46 @@
+A1-09-Zahlen von 1 bis 100
+
+
+LISA: 
+Wie ist die Hausnummer , Emma? 38 oder 83?
+EMMA:
+Moment … elf.
+LISA: 
+Ah, ja. Dann sind wir richtig hier.
+NICO:
+Da.
+EMMA:
+Wie viele Zahlen sind das?
+NICO:
+Wie viele?
+EMMA:
+Das sind 31 Zahlen.
+NICO:
+31 …
+EMMA:
+Eins , zwei , drei , vier , fünf …
+NICO:
+Eins, zwei, drei, vier, fünf.
+EMMA:
+... sechs , sieben , acht , neun , zehn , elf , zwölf .
+NICO:
+Sechs, sieben, acht, neun, zehn, elf, zwölf.
+Was ist das?
+EMMA:
+Eine Einladung zum Geburtstag von Charlotte.
+NICO:
+Geburtstag?
+EMMA:
+Happy birthday to you …
+NICO:
+Ah, Geburtstag!
+LISA:
+Ja, und das hier ist ein Geschenk .
+EMMA:
+Tschüss, Nico! Bis morgen !
+NICO:
+Tschüss, Emma!
+
+
+
+===============================================

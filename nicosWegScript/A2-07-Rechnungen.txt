@@ -1,0 +1,31 @@
+A2-07-Rechnungen
+
+
+YARA:
+Auf Wiedersehen! Schönen Tag noch.
+KUNDE:
+Ihnen auch! Danke.
+YARA:
+Empfänger , IBAN, Verwendungszweck war … 335423. TAN eingeben , absenden und fertig. Und die nächste …
+TAREK:
+Hi, Yara.
+YARA:
+Hallo, Tarek.
+TAREK:
+Hast du viel zu tun?
+YARA:
+Ja. Ich war lange nicht hier und muss sehr viel erledigen. Rechnungen bezahlen, E-Mails beantworten, Bestellungen aufgeben …
+TAREK:
+Okay.
+YARA:
+Die Sache mit der Miete … Danke, dass ihr euch darum gekümmert habt. Ich hab total vergessen, die Miete zu überweisen .
+TAREK:
+Kein Problem.
+YARA:
+Schau mal, Tarek! Nico hat jetzt ein eigenes Konto.
+TAREK:
+Oh!
+
+
+
+===============================================

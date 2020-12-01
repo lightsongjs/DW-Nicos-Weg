@@ -1,0 +1,27 @@
+A2-55-Ein Bürger dieser Stadt
+
+
+YARA:
+Und? Wie fandest du die Ausstellung?
+SARAH:
+Es geht. Das Stadtschloss war beeindruckend , aber die Ausstellung war relativ uninteressant.
+YARA:
+Du bist kaum vier Stunden hier und es ist wie früher, als wir noch in der Ausbildung waren.
+SARAH:
+Stimmt!
+YARA:
+Wie lange bleibst du eigentlich?
+SARAH:
+Nicht lange. Ich reise gerade herum und dachte, ich komme dich besuchen und sage kurz Hallo.
+YARA:
+Schön, dass es dir wieder besser geht.
+SARAH:
+Ich vermisse meinen Vater sehr, Yara. Aber ... er wollte immer, dass ich die Welt sehe, und jetzt … mach ich es. Danke für die letzten Wochen. Ich bin so froh , dass du da warst. Was schauen wir uns jetzt an?
+YARA:
+Es gibt hier ein kleines Museum, das dir bestimmt gut gefällt. Ein bekannter Komponist aus dieser Stadt hat dort gelebt. Er schrieb viele Stücke für Geige und Klavier und er ist vor ’n paar Jahren gestorben. Ich war noch nie da. Sollen wir uns das mal anschauen?
+SARAH:
+Ja, okay.
+
+
+
+===============================================

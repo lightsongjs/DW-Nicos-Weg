@@ -1,0 +1,51 @@
+A2-19-Bahnreisen
+
+
+MAX:
+Geht’s dir gut, Inge?
+INGE:
+Mir? Natürlich. Ach … WGs und Reisen … Ich sitze den ganzen Tag nur zu Hause oder hier.
+MAX:
+Aber warum? Du bist fit, du hast Zeit. Warum fährst du nicht weg? Mach doch mal ’ne Reise!
+INGE:
+Das ist alles so kompliziert.
+MAX:
+Ach Quatsch! Tarek? Bringst du mal den Laptop her?
+INGE:
+Was? Wieso?
+MAX:
+Weil wir zusammen jetzt einen Ausflug buchen.
+TAREK:
+Ja!
+TAREK:
+Halt! Stopp! Moment! Das hört sich gut an! Angebot für Seniorengruppen: eine Zugfahrt durch das Rheintal nach Bingen am Rhein, mit Mittagessen und Stadtrundgang .
+INGE:
+Wo fährt der Zug ab ?
+MAX:
+Am Hauptbahnhof in Köln.
+INGE:
+Und wann?
+MAX:
+Die Abfahrt ist um 9:45 Uhr von Gleis 7.
+INGE:
+Was kostet das?
+TAREK:
+Hin- und Rückfahrt kosten 50 Euro und du musst nicht umsteigen. Du kommst um Viertel vor zwölf in Bingen am Rhein an und um halb sieben abends fährst du wieder zurück .
+INGE:
+Mhm, toll! Aber alles an einem Tag? Das ist mir zu anstrengend.
+TAREK:
+Stimmt.
+MAX:
+Du kannst auch in Bingen übernachten. Wir finden bestimmt ’n Hotelzimmer für dich. Sollen wir das buchen?
+INGE:
+Ja!
+TAREK:
+Ja!
+MAX:
+Okay! Das war's. Jetzt drucken wir die Verbindung noch aus und suchen auch noch ein Hotelzimmer raus.
+INGE:
+Ach, toll! Jungs, ihr seid großartig! Bin schon ganz aufgeregt!
+
+
+
+===============================================
